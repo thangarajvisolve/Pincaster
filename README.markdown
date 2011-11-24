@@ -1,5 +1,5 @@
 Pincaster
-=========
+---------
 
 Pincaster is an in-memory, persistent data store for geographic data and key/dictionnary pairs, with replication and a HTTP/JSON interface.
 
